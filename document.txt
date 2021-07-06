@@ -1,1 +1,15 @@
 dkssudgktpdy
+
+git --version 현재 깃 버전
+
+git config
+	 --global user.name "깃유저이름"
+	 --global user.email "깃 유저이메일"
+
+git clone "깃 허브 주소"
+
+git add 디렉토리
+
+git commit -m "커밋메세지"
+
+git push      적용
